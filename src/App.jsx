@@ -6,7 +6,7 @@ import Inscription from './pages/Inscription.jsx'
 import Connexion from './pages/Connexion.jsx'
 import CreerAnnonce from './pages/CreerAnnonce.jsx'
 import ResetPassword from "./pages/ResetPassword.jsx";
-import Dashboardvendeur from "./pages/Dashboardvendeur.jsx";
+import Dashboardvendeur from "./pages/DashboardVendeur.jsx";
 
 function App() {
   return (
